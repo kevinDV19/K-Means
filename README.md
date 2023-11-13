@@ -10,6 +10,10 @@ Duarte Vázquez Kevin Alexis. </h1>
 
 <h2> Resultado:</h2>
 <img src="K-Means/Resultado.png">
+.
+.
+.
+150
 
 
 
